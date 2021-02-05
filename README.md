@@ -1,4 +1,4 @@
 # Gold-
-![](image.jpg)
+![](image.png)
 |
 
