@@ -1,2 +1,2 @@
 # Gold-
-![](images/Github-pexels.jpg)
+![](images/Gold-pexels.jpg)
