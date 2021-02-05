@@ -1,25 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome January 2021 to June 2021
 
-You can use the [editor on GitHub](https://github.com/Tshah1993/Gold-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hoping you are well and healthy. New round starts in Jan 2021. 
+If you have any pending payments, please make sure to clear them ASAP. 
+The rules, We get the coin around the 15th of the month. 
+Canadian maples are very popular, so please call Bellevue/Lynnwood rare coins before you go to the store. 
+I had to wait 3 weeks before I could get the coin. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### list of family schedules below to get the coin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      1) Ajay - Rachna - Jan 2021
+      2) Pavan - Pratusha - Feb 2021
+      3) Charuben - Rajendra Shah - Mar 2021
+      4) Nilesh - Deepali Shah - April 2021
+      5) Pranay - Jesika - May 2021
+      6) Satish - Rajitha - June 2021
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Which Coin to buy? 
+   1 oz Canadian maple  (Please do not buy any other coin)
+   Purity: 9999
 
-- Bulleted
-- List
+    
+## Where to buy the coin?
+ Bellevue Rare Coins (Bellevue, Lynnwood). They are open 7 days a week now.
+ Website: http://www.wscbrc.com/
+ Gold Prices: http://www.wscbrc.com/bullion/gold-canadian-maple-leaf (Look for 1oz Canadian Maple) 
+ Payment Method: Cash only (They charge approx. $45 to $50 service charge for each coin which is fine)
 
-1. Numbered
-2. List
+### How can you make payments?
+
+    1 PayPal (I would highly recommend getting a PayPal account which makes it convenient to pay)
+    2 Zeele (BOA)
+    3 Venmo 
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
