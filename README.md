@@ -1,3 +1,3 @@
 # Gold-
-![](images/Gold-pexels.jpg) []!
+![(images/https://github.com/Tshah1993/Gold-/blob/gh-pages/pexels.jpg) ]!
 
